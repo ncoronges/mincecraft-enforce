@@ -1,0 +1,4 @@
+export CONTENTFUL_SPACE_ID=<your space id>
+export CONTENTFUL_API_KEY=<your api key>
+export CONTENTFUL_ENTRY_ID=<your entry id>
+
